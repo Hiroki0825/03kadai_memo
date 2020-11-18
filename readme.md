@@ -4,9 +4,9 @@
 
 ## デプロイ先
 
-https://hiroki0825.github.io/js01_kadai/index.html
+https://hiroki0825.github.io/03kadai_memo/index.html
 
-受講番号 F_DEV07_02
+受講番号 F_DEV07_02 Hiroki ABE
 
 ## プロダクトの紹介
 
